@@ -1,7 +1,9 @@
 ### Olá! Eu sou o Angelo Gustavo 🤙 
 
 
-(![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouAngelo&show_icons=true&theme=dracula))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouAngelo&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouAngelo)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia a dia 🤓
 
