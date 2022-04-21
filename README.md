@@ -27,8 +27,7 @@ Estudante de Javascript: HTML, CSS, Bootstrap, React Js
 - 🎵 Gosto de cantar, compor, produzir músicas, dublar, desenhar, tocar instrumentos, ver séries/animes e claro, programar! 
 
 ### Meus contatos 📱 <br/>
-
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (https://linkedin.com/souangelogustavo))
+<a href="www.linkedin.com/in/souangelogustavo">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white (https://gmail.com/angelotj43@gmail.com))
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white (https://github.com/SouAngelo))
 
