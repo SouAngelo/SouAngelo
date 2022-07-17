@@ -29,8 +29,7 @@ Estudante de Javascript: HTML, CSS, Bootstrap, React Js
 ### Meus contatos 📱 <br/>
 <a href="https://www.linkedin.com/in/souangelogustavo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white (mailto: angelotj43@gmail.com)) 
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white (https://github.com/SouAngelo))
+Email: angelotj43@gmail.com
 
 <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
