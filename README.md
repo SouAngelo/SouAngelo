@@ -32,7 +32,7 @@ Estudante de Javascript: HTML, CSS, Ts, React Js
 
 - 🤖 "Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero."
 
-- 🎵 Gosto de cantar, compor, produzir músicas, dublar, desenhar, tocar instrumentos, as vezes dublar, ver séries/animes e claro, programar! 
+- 🎵 Gosto de cantar, compor, produzir músicas,desenhar, tocar instrumentos, as vezes dublar, ver séries/animes e claro, programar! 
 
 ### Meus contatos 📱 <br/>
 <a href="https://www.linkedin.com/in/souangelogustavo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
