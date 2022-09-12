@@ -9,7 +9,12 @@
   <a href="https://github.com/SouAngelo">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouAngelo&layout=compact&langs_count=7&theme=dracula"/>
-</div
+</div>
+<br>
+
+![Snake animation](https://github.com/SouAngelo/SouAngelo/blob/output/github-contribution-grid-snake.svg)
+ 
+<br>
 
 ### Tecnologias que eu uso no meu dia a dia 🤓
 
@@ -21,6 +26,7 @@
  <img align='center' alt='htmls' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
  <img align='center' alt='htmls' src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'>
 </div><br/>
+
 
 ### Muito prazer, me chame de Gustavo! 😁
 
@@ -46,9 +52,6 @@ Email: angelotj43@gmail.com
  <br>
 
 ![](https://komarev.com/ghpvc/?username=your-github-SouAngelo)
- 
- 
-  ![Snake animation](https://github.com/SouAngelo/SouAngelo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
