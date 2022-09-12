@@ -45,6 +45,7 @@ Email: angelotj43@gmail.com
 </div>
  <br>
 
+![](https://komarev.com/ghpvc/?username=your-github-SouAngelo)
  
  
   ![Snake animation](https://github.com/SouAngelo/SouAngelo/blob/output/github-contribution-grid-snake.svg)
