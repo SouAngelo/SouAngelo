@@ -34,9 +34,9 @@
 Sobre mim:
 
 - 👨‍🎓 
-Estudante de Javascript: HTML, CSS, Ts, React Js, SASS.
+Estudante de Javascript: HTML, CSS, Ts, React Js, React Native, SASS.
 
-- 🔰 Interesse: Javascript, CSS, HTML, Typescript, React Js, SASS. 
+- 🔰 Interesse: Javascript, CSS, HTML, Typescript, React Js, React Native, SASS. 
 
 - 🤖 "Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero."
 
