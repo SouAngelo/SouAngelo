@@ -1,4 +1,5 @@
-### Olá! Eu sou o Angelo Gustavo 🤙 
+## Seja bem vindo ao meu Github 😎 
+<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouAngelo&show_icons=true&theme=dracula)
@@ -26,6 +27,8 @@
  <img align='center' alt='htmls' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
    <img align='center' alt='htmls' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
   <img align='center' alt='htmls' src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'>
+
+  <img align='center' alt='htmls' src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'>
 </div><br/>
 
 
@@ -34,9 +37,9 @@
 Sobre mim:
 
 - 👨‍🎓 
-Estudante de Javascript: HTML, CSS, Ts, React Js, React Native, SASS.
+Desenvolvedor Front End Jr.
 
-- 🔰 Interesse: Javascript, CSS, HTML, Typescript, React Js, React Native, SASS. 
+- 🔰 Tecnologias: Javascript, CSS, HTML, Typescript, React Js, React Native, SASS, Next Js. 
 
 - 🤖 "Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero."
 
