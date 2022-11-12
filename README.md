@@ -33,6 +33,11 @@
 
 
 ### Muito prazer, me chame de Gustavo! 😁
+<br>
+
+<img align="center" width="238" height="280" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+
+<br>
 
 Sobre mim:
 
@@ -51,9 +56,8 @@ Desenvolvedor Front End Jr.
 
 Email: angelotj43@gmail.com
 
-<img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-</div>
- <br>
+
+ 
 
 ![](https://komarev.com/ghpvc/?username=your-github-SouAngelo)
  
